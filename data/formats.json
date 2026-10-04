@@ -1,0 +1,59 @@
+[
+  {
+    "id": "problem-solution",
+    "name": "Problem-Solution",
+    "whyItWorks": "People feel urgency when presented with a clear solution to a clear problem.",
+    "sections": ["hook", "problem", "agitate", "reveal", "demo", "cta"],
+    "extraInputs": []
+  },
+  {
+    "id": "transformation",
+    "name": "Transformation",
+    "whyItWorks": "Proof sells better than promises.",
+    "sections": ["hook", "before", "product", "after", "proof", "cta"],
+    "extraInputs": [
+      { "key": "timeframe", "label": "Timeframe" },
+      { "key": "beforeDescription", "label": "Before description" },
+      { "key": "afterDescription", "label": "After description" }
+    ]
+  },
+  {
+    "id": "skit",
+    "name": "Skit",
+    "whyItWorks": "Shows benefits through a scenario and taps core human desires like social proof. Needs a strong CTA to convert.",
+    "sections": ["hook", "setup", "conflict", "productMoment", "payoff", "cta"],
+    "extraInputs": [
+      { "key": "characters", "label": "Characters" },
+      { "key": "scenario", "label": "Scenario" },
+      { "key": "socialProofAngle", "label": "Social proof angle" }
+    ]
+  },
+  {
+    "id": "shocking-demonstration",
+    "name": "Shocking Demonstration",
+    "whyItWorks": "An unexpected capability stops the scroll and makes the product memorable.",
+    "sections": ["hook", "setup", "unexpectedDemo", "reaction", "whyItWorks", "cta"],
+    "extraInputs": [
+      { "key": "surprisingCapability", "label": "Surprising capability" }
+    ]
+  },
+  {
+    "id": "comment-reply",
+    "name": "Comment Reply",
+    "whyItWorks": "Retargets everyone who watched the original video. Replying to objections or hate is powerful social proof. You can comment on your own videos.",
+    "sections": ["commentOnScreen", "answer", "body", "cta"],
+    "extraInputs": [
+      { "key": "commentText", "label": "Comment text" },
+      {
+        "key": "commentType",
+        "label": "Comment type",
+        "options": ["question", "objection", "hate"]
+      },
+      {
+        "key": "bodyFormat",
+        "label": "Body format",
+        "options": ["problem-solution", "transformation", "skit", "shocking-demonstration"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cta-01",
+    "text": "It's the orange basket below. Grab it before the sale ends, because I'm not paying full price again.",
+    "formats": ["problem-solution", "transformation", "shocking-demonstration"]
+  },
+  {
+    "id": "cta-02",
+    "text": "Link's right there. Try it for a week and tell me I'm wrong.",
+    "formats": ["transformation", "comment-reply", "problem-solution"]
+  },
+  {
+    "id": "cta-03",
+    "text": "Send this to the friend who keeps complaining about her skin, then tap the basket for her.",
+    "formats": ["skit", "problem-solution"]
+  },
+  {
+    "id": "cta-04",
+    "text": "I put it in the basket below so you don't have to go hunting for it.",
+    "formats": ["problem-solution", "shocking-demonstration", "comment-reply"]
+  },
+  {
+    "id": "cta-05",
+    "text": "Follow for part two, and grab it now while it's still on discount.",
+    "formats": ["transformation", "skit", "shocking-demonstration"]
+  },
+  {
+    "id": "cta-06",
+    "text": "If this was your question too, the answer is in the basket below. Go look.",
+    "formats": ["comment-reply"]
+  }
+]

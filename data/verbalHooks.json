@@ -1,0 +1,77 @@
+[
+  {
+    "id": "vh-01",
+    "text": "I wasted like two hundred dollars on skincare before I found [product].",
+    "formats": ["problem-solution", "transformation"]
+  },
+  {
+    "id": "vh-02",
+    "text": "Okay, I was NOT going to make a video about [product], but my skin won't let me stay quiet.",
+    "formats": ["transformation", "shocking-demonstration", "comment-reply"]
+  },
+  {
+    "id": "vh-03",
+    "text": "If your face feels tight by lunchtime, please stop scrolling and listen to me about [product].",
+    "formats": ["problem-solution", "comment-reply"]
+  },
+  {
+    "id": "vh-04",
+    "text": "My sister saw my face last week and asked what I'd changed. It was [product]. That's it.",
+    "formats": ["transformation", "skit"]
+  },
+  {
+    "id": "vh-05",
+    "text": "Nobody tells you that breakouts at 30 are a thing, so here's what actually helped me: [product].",
+    "formats": ["problem-solution", "transformation"]
+  },
+  {
+    "id": "vh-06",
+    "text": "I thought [product] was just hype until I tried it for one week.",
+    "formats": ["transformation", "comment-reply"]
+  },
+  {
+    "id": "vh-07",
+    "text": "Wait, watch what happens when I put [product] on this.",
+    "formats": ["shocking-demonstration"]
+  },
+  {
+    "id": "vh-08",
+    "text": "You guys keep asking me what's on my face, so fine, it's [product].",
+    "formats": ["comment-reply", "transformation"]
+  },
+  {
+    "id": "vh-09",
+    "text": "This is the part where you tell me [product] is a scam, and then I show you my skin.",
+    "formats": ["comment-reply", "skit"]
+  },
+  {
+    "id": "vh-10",
+    "text": "Be honest, how many half-used serums are sitting in your bathroom right now? Mine are all gone since [product].",
+    "formats": ["problem-solution", "skit"]
+  },
+  {
+    "id": "vh-11",
+    "text": "I did not expect [product] to do THAT, and I'm still kind of annoyed about it.",
+    "formats": ["shocking-demonstration"]
+  },
+  {
+    "id": "vh-12",
+    "text": "My boyfriend called my skincare routine 'a lot', and then he stole my [product].",
+    "formats": ["skit"]
+  },
+  {
+    "id": "vh-13",
+    "text": "Three weeks ago I was covering my face with my hand on FaceTime. Now look.",
+    "formats": ["transformation"]
+  },
+  {
+    "id": "vh-14",
+    "text": "Someone in my comments said [product] doesn't work, so let's test that right now.",
+    "formats": ["comment-reply", "shocking-demonstration"]
+  },
+  {
+    "id": "vh-15",
+    "text": "The one thing my dermatologist and my group chat both agree on is [product].",
+    "formats": ["problem-solution", "skit", "comment-reply"]
+  }
+]

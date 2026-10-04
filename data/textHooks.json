@@ -1,0 +1,52 @@
+[
+  {
+    "id": "txt-01",
+    "text": "POV: you finally found something that doesn't break you out",
+    "formats": ["problem-solution", "skit"]
+  },
+  {
+    "id": "txt-02",
+    "text": "My skin 3 weeks ago vs. now (no filter)",
+    "formats": ["transformation"]
+  },
+  {
+    "id": "txt-03",
+    "text": "Replying to @user who said this wouldn't work",
+    "formats": ["comment-reply"]
+  },
+  {
+    "id": "txt-04",
+    "text": "Tell me you have dry skin without telling me you have dry skin",
+    "formats": ["problem-solution", "skit"]
+  },
+  {
+    "id": "txt-05",
+    "text": "I did not think this would work. I was wrong.",
+    "formats": ["transformation", "shocking-demonstration"]
+  },
+  {
+    "id": "txt-06",
+    "text": "Why is nobody talking about this?",
+    "formats": ["shocking-demonstration", "problem-solution"]
+  },
+  {
+    "id": "txt-07",
+    "text": "The $[price] fix for my skin that I almost didn't try",
+    "formats": ["transformation", "problem-solution"]
+  },
+  {
+    "id": "txt-08",
+    "text": "When your boyfriend steals your skincare and then won't admit it works",
+    "formats": ["skit"]
+  },
+  {
+    "id": "txt-09",
+    "text": "Wait for it...",
+    "formats": ["shocking-demonstration", "transformation"]
+  },
+  {
+    "id": "txt-10",
+    "text": "You asked, so here's the honest answer",
+    "formats": ["comment-reply"]
+  }
+]

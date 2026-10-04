@@ -1,0 +1,18 @@
+[
+  { "id": "pp-01", "category": "skincare", "concern": "acne", "text": "Waking up to a new pimple right before something important" },
+  { "id": "pp-02", "category": "skincare", "concern": "acne", "text": "Dark marks that stick around for months after a breakout heals" },
+  { "id": "pp-03", "category": "skincare", "concern": "acne", "text": "Trying harsh products that clear one spot and make everything else worse" },
+  { "id": "pp-04", "category": "skincare", "concern": "dryness", "text": "Skin that feels tight and stingy within minutes of washing" },
+  { "id": "pp-05", "category": "skincare", "concern": "dryness", "text": "Foundation that clings to dry flaky patches" },
+  { "id": "pp-06", "category": "skincare", "concern": "dryness", "text": "Moisturizers that feel good for an hour and then wear off" },
+  { "id": "pp-07", "category": "skincare", "concern": "aging", "text": "Fine lines around the eyes that show up in every photo" },
+  { "id": "pp-08", "category": "skincare", "concern": "aging", "text": "Skin that looks tired no matter how much sleep you got" },
+  { "id": "pp-09", "category": "skincare", "concern": "aging", "text": "Spending a fortune on anti-aging creams that don't do anything visible" },
+  { "id": "pp-10", "category": "skincare", "concern": "oiliness", "text": "Face that looks greasy by noon, even after a full routine" },
+  { "id": "pp-11", "category": "skincare", "concern": "oiliness", "text": "Makeup that slides off by mid-afternoon" },
+  { "id": "pp-12", "category": "skincare", "concern": "sensitivity", "text": "Redness and burning after trying a new product" },
+  { "id": "pp-13", "category": "skincare", "concern": "sensitivity", "text": "Never knowing which ingredient is the one making your skin react" },
+  { "id": "pp-14", "category": "skincare", "concern": "dark spots", "text": "Uneven patches that no concealer fully covers" },
+  { "id": "pp-15", "category": "skincare", "concern": "dullness", "text": "Skin that looks flat and gray even when it's clean" },
+  { "id": "pp-16", "category": "skincare", "concern": "texture", "text": "Rough bumpy texture you can feel but not really hide" }
+]

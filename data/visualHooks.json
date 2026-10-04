@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vis-01",
+    "text": "Close-up of bare skin in natural window light, no filter, camera held close enough to see texture.",
+    "formats": ["problem-solution", "transformation"]
+  },
+  {
+    "id": "vis-02",
+    "text": "Hand sweeps a cluttered row of half-empty skincare bottles into the trash, then holds up just [product].",
+    "formats": ["problem-solution", "skit"]
+  },
+  {
+    "id": "vis-03",
+    "text": "Split screen: day 1 on the left, today on the right, same lighting, same angle.",
+    "formats": ["transformation"]
+  },
+  {
+    "id": "vis-04",
+    "text": "Creator walks into frame mid-eye-roll, holding [product] like it just personally offended them.",
+    "formats": ["skit", "comment-reply"]
+  },
+  {
+    "id": "vis-05",
+    "text": "Extreme close-up of [product] doing something nobody expects, with no talking for the first two seconds.",
+    "formats": ["shocking-demonstration"]
+  },
+  {
+    "id": "vis-06",
+    "text": "Phone screen showing the comment, then a quick cut to the creator reacting to it in the mirror.",
+    "formats": ["comment-reply"]
+  },
+  {
+    "id": "vis-07",
+    "text": "Creator pats a bare cheek and winces, or pulls the skin to show how tight or dry it looks.",
+    "formats": ["problem-solution", "transformation"]
+  },
+  {
+    "id": "vis-08",
+    "text": "Two people in a bathroom, one mid-skincare routine, the other already grabbing the product off the counter.",
+    "formats": ["skit"]
+  }
+]
